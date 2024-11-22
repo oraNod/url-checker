@@ -1,2 +1,3 @@
-.vscode
-site/
+venv
+url_report_*
+redirect_test/
